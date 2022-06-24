@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is send message"
+            android:textSize="18sp"
+            android:id="@+id/txtsend_msg"
+            android:background="@drawable/btn_bg"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            >
+
+        </TextView>
+
+        </RelativeLayout>
+
+</RelativeLayout>

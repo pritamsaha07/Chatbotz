@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171344800436",
+    "project_id": "chatbotz-27f96",
+    "storage_bucket": "chatbotz-27f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171344800436:android:0c70d1a0a45fe8e63945e1",
+        "android_client_info": {
+          "package_name": "com.example.chatmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171344800436-foef1onvvhltqi4n9mfbt0i8963ddplv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXCNw7LQj7cP5ob6cUPHnXyj1Vc2zwUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171344800436-foef1onvvhltqi4n9mfbt0i8963ddplv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
